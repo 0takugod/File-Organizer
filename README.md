@@ -1,4 +1,4 @@
-# File Organizer
+### File Organizer
 
 File Organizer is a Python script that automatically moves downloaded files to their appropriate folders based on their file types. This project helps you keep your download directory organized and saves you time from manually sorting files.
 
